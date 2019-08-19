@@ -4,7 +4,7 @@ import random
 import tkinter
 
 typeSet = (
-    "RolePlay",
+    "Role Play",
     "Shooter",
     "Action",
     "Adventage",
